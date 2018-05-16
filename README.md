@@ -76,3 +76,4 @@ pull from Transifex would automatically overwrite them again.
 
 Translators should also follow the [forum](https://www.dash.org/forum/topic/dash-worldwide-collaboration.88/).
 # DashWindows
+#DashWindows
